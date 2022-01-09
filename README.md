@@ -1,5 +1,7 @@
 # flightclubstockchecker
-
+## DISCLAIMER:
+> By using this script, you understand you are violating Flight Club TOS.
+##
 Flight Club Stock Checker checks the current price for non-consigned shoes between Flight Club and Alias.
 Currently it is only able to parse men's shoes and if you are looking to check consigned shoes replace 'marketPriceCents' with 'lowestConsignedPriceCents'
 
